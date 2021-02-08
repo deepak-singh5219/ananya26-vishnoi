@@ -49,5 +49,5 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ananya26-vishnoi&show_icons=true&theme=gotham" alt="Ananya Vishnoi" />
   
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting " width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 

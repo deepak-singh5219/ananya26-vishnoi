@@ -8,7 +8,7 @@
 - 🌱 I’m currently exploring everything
 - ⚡️ Want to learn C in deep
 - 👯 Goal: Software Engineer
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contributions on Open Source projects
 - 📫 How to reach me: ananyavishnoi26@gmail.com
 - ⚡ Fun fact: I love to do photography📷 
 

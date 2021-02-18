@@ -31,6 +31,7 @@ ___________________
   <a href="https://github.com/ananya26-vishnoi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya26-vishnoi&theme=light&hide_langs_below=1" />
 </a>
+___________________________
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ananya26-vishnoi/count.svg" />
@@ -69,6 +70,6 @@ ______________________________________________
     <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=coder-KO.coder-KO" />
   </a>
 </p> 
-  
+__________________________________________________________________________  
 <img height="120" alt="Thanks for visiting " width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 

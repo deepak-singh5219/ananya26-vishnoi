@@ -1,9 +1,7 @@
-### Hey! I'm Ananya Vishnoi 👋
+### <i>Hey!</i> I'm Ananya Vishnoi 👋
 
 ## I'm a Student, Competitive Coder, Developer!!
  
-
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
 
 - 🌱 I’m currently exploring everything
@@ -38,7 +36,7 @@
 
 
 
-📈 My GitHub Stats
+📈 <u>My GitHub Stats</u>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ananya26-vishnoi&show_icons=true&theme=gotham" alt="Ananya Vishnoi" />
  

@@ -1,4 +1,4 @@
-### Heya! I'm Ananya Vishnoi 👋
+### Hey! I'm Ananya Vishnoi 👋
 
 ## I'm a Student, Competitive Coder, Developer!!
  

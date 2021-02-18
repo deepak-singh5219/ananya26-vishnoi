@@ -3,7 +3,7 @@
 ## I'm a Student, Competitive Coder, Developer!!
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3oz8xyg7F0uoJ5XxDO/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
 
 - 🌱 I’m currently exploring everything
 - ⚡️ Want to learn C++ in deep

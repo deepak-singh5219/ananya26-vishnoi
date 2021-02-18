@@ -2,7 +2,6 @@
 ___________________________________________
 
 ## I'm a Student, Competitive Coder, Developer!!
-__________________________________________________
  
 <img align="right" alt="GIF" width="450" height="450" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
 

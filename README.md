@@ -1,8 +1,9 @@
 ### <i>Hey!</i> I'm Ananya Vishnoi 👋
+___________________________________________
 
 ## I'm a Student, Competitive Coder, Developer!!
  
-<img align="right" alt="GIF" width="500" height="500" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
+<img align="right" alt="GIF" width="450" height="450" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
 
 - 🌱 I’m currently exploring everything
 - ⚡️ Want to learn C++ in deep
@@ -11,8 +12,8 @@
 - 📫 How to reach me: ananyavishnoi26@gmail.com
 - ⚡ Fun fact: I love to do photography📷 
 
+_______________
 ### Languages and Tools:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -26,18 +27,8 @@
 <br />
 <br />
 
-
-[twitter]: https://twitter.com/AnanyaVishnoi3
-[instagram]: https://www.instagram.com/_ananya_vishnoi_/
-[linkedin]: https://www.linkedin.com/in/ananya-vishnoi-5980531b3/
-[facebook]: https://www.facebook.com/ananya.vishnoi.144
-</br>
-</br>
-
-
-
+___________________
 📈 <u>My GitHub Stats</u>
-
 ![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananya26-vishnoi&show_icons=true&hide_border=true)
   <a href="https://github.com/ananya26-vishnoi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya26-vishnoi&theme=light&hide_langs_below=1" />
@@ -48,7 +39,7 @@
 </p>
 
 
-_________
+___________
 <h3 align="center">Connect with me :smiley:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ananya-vishnoi-5980531b3/">

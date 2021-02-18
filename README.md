@@ -50,7 +50,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ananya26-vishnoi&show_icons=true&theme=gotham" alt="Ananya Vishnoi" />
   
  ## Language Usage ~ Status
-![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=AemieJ&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
+![Top Langs](https://github-readme-stats.ananya.vercel.app/api/top-langs/?username=ananya&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
 
   
 <img height="120" alt="Thanks for visiting " width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />

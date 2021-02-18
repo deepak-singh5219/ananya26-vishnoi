@@ -6,9 +6,9 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3oz8xyg7F0uoJ5XxDO/giphy.gif" />
 
 - 🌱 I’m currently exploring everything
-- ⚡️ Want to learn C in deep
+- ⚡️ Want to learn C++ in deep
 - 👯 Goal: Software Engineer
-- 🥅 2021 Goals: Contributions on Open Source projects
+- 🥅 2021 Goals: Contributions on Open Source 
 - 📫 How to reach me: ananyavishnoi26@gmail.com
 - ⚡ Fun fact: I love to do photography📷 
 

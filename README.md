@@ -13,17 +13,6 @@
 - 📫 How to reach me: ananyavishnoi26@gmail.com
 - ⚡ Fun fact: I love to do photography📷 
 
-
-### Connect with me:
-
-
-[<img align="left" alt="Ananya vishnoi  | Twitter" width="22px" src="https://thumbs.dreamstime.com/b/twitter-logo-icon-voronezh-russia-january-black-square-soft-shadow-171161266.jpg" />][twitter]
-[<img align="left" alt="Ananya vishnoi  | LinkedIn" width="22px" src="https://cdn3.vectorstock.com/i/thumb-large/62/02/social-media-symbol-linkedin-vector-26936202.jpg" />][linkedin]
-[<img align="left" alt="Ananya vishnoi  | Instagram" width="22px" src="https://1000logos.net/wp-content/uploads/2017/02/Emblem-Instagram-500x500.jpg" />][instagram]
-[<img align="left" alt="Ananya vishnoi  | Facebook" width="22px" src="https://i.pinimg.com/564x/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.jpg" />][Facebook]
-
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

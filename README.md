@@ -37,10 +37,8 @@ ___________________________
   <img src="https://profile-counter.glitch.me/ananya26-vishnoi/count.svg" />
 </p>
 
-
-______________________________________________
-<h3 align="center">Connect with me :smiley:</h3>
-<p align="center">
+<h3 align="right">Connect with me :smiley:</h3>
+<p align="right">
   <a href="https://www.linkedin.com/in/ananya-vishnoi-5980531b3/">
   <img alt="Ananya's Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
   </a>&nbsp
@@ -70,6 +68,6 @@ ______________________________________________
     <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=coder-KO.coder-KO" />
   </a>
 </p> 
-______________________________________________________________________________________________________________________________________________
+
 <img height="120" alt="Thanks for visiting " width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 

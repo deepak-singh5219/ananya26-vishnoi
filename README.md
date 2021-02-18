@@ -2,6 +2,7 @@
 ___________________________________________
 
 ## I'm a Student, Competitive Coder, Developer!!
+__________________________________________________
  
 <img align="right" alt="GIF" width="450" height="450" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
 
@@ -12,7 +13,7 @@ ___________________________________________
 - 📫 How to reach me: ananyavishnoi26@gmail.com
 - ⚡ Fun fact: I love to do photography📷 
 
-_______________
+_____________________________
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -39,7 +40,7 @@ ___________________
 </p>
 
 
-___________
+______________________________________________
 <h3 align="center">Connect with me :smiley:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ananya-vishnoi-5980531b3/">

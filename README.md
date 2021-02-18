@@ -1,7 +1,7 @@
 ### Heya! I'm Ananya Vishnoi 👋
 
 ## I'm a Student, Competitive Coder, Developer!!
- <p align="left"> <img src=https://komarev.com/ghpvc/?username=ananya26-vishnoi alt=ananya26-vishnoi/></p>
+ 
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
@@ -61,6 +61,39 @@
   <img src="https://profile-counter.glitch.me/ananya26-vishnoi/count.svg" />
 </p>
 
+
+_________
+<h3 align="center">Connect with me :smiley:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ananya-vishnoi-5980531b3/">
+  <img alt="Ananya's Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  </a>&nbsp
+  <a href="https://twitter.com/AnanyaVishnoi3">
+    <img alt="Ananya's Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+  </a>&nbsp
+  <a href="https://www.instagram.com/_ananya_vishnoi_/">
+    <img alt="Ananya's Instagram" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
+  </a>&nbsp
+  <a href="https://www.facebook.com/ananya.vishnoi.144/">
+    <img alt="Ananya's Facebook" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/facebook.svg"/>
+  </a>&nbsp
+  <a href="https://dev.to/ananya26vishnoi">
+    <img alt="Ananya's DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
+  </a>&nbsp
+  <a href="https://medium.com/@ananyavishnoi">
+    <img alt="Ananya's Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
+  </a>&nbsp
+  <br /><br />
+  <a>
+    <img alt="Awesome Badges" src="https://img.shields.io/badge/badges-awesome-green.svg" />
+  </a>
+  <a>
+    <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
+  </a>
+  <a>
+    <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=coder-KO.coder-KO" />
+  </a>
+</p> 
   
 <img height="120" alt="Thanks for visiting " width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 

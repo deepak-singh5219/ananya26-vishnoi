@@ -52,6 +52,9 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ananya26-vishnoi&show_icons=true&theme=gotham" alt="Ananya Vishnoi" />
   <p align="left"> <img src=https://komarev.com/ghpvc/?username=ananya26-vishnoi alt=ananya26-vishnoi/></p>
+  <a href="https://github.com/ananya26-vishnoi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya26-vishnoi&theme=light&hide_langs_below=1" />
+</a>
 
   
 <img height="120" alt="Thanks for visiting " width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />

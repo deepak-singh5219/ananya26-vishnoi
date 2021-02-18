@@ -28,17 +28,17 @@ _____________________________
 
 ___________________
 ![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananya26-vishnoi&show_icons=true&hide_border=true)
-  <a href="https://github.com/ananya26-vishnoi">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya26-vishnoi&theme=light&hide_langs_below=1" />
+  <a href="https://github.com/ananya26-vishnoi" align="right">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya26-vishnoi&theme=light&hide_langs_below=1" />
 </a>
 ___________________________
-<p align="left"> 
+<p align="right"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ananya26-vishnoi/count.svg" />
 </p>
 
-<h3 align="right">Connect with me :smiley:</h3>
-<p align="right">
+<h3 align="left">Connect with me :smiley:</h3>
+<p align="left">
   <a href="https://www.linkedin.com/in/ananya-vishnoi-5980531b3/">
   <img alt="Ananya's Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
   </a>&nbsp

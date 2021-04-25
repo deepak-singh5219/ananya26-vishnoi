@@ -1,7 +1,7 @@
 ### <i>Hey!</i> I'm Ananya Vishnoi 👋
 ___________________________________________
 
-## I'm a Student, Competitive Coder, Developer!!
+## I'm a Student and Developer!!
  
 <img align="right" alt="GIF" width="400" height="400" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
 

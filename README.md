@@ -1,19 +1,22 @@
 ### <i>Hey!</i> I'm Ananya Vishnoi 👋
-___________________________________________
 
-## I'm a Student and Developer!!
- 
+---
+
+## I'm a Student,Designer and Developer!!
+
 <img align="right" alt="GIF" width="400" height="400" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
 
 - 🌱 I’m currently exploring everything
 - ⚡️ Want to learn C++ in deep
 - 👯 Goal: Software Engineer
-- 🥅 2021 Goals: Contributions on Open Source 
+- 🥅 2021 Goals: Contributions on Open Source
 - 📫 How to reach me: ananyavishnoi26@gmail.com
-- ⚡ Fun fact: I love to do photography📷 
+- ⚡ Fun fact: I love to do photography📷
 
-_____________________________
+---
+
 ### Languages and Tools:
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -26,12 +29,15 @@ _____________________________
 <br />
 <br />
 
-___________________
+---
+
 ![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananya26-vishnoi&show_icons=true&hide_border=true)
-  <a href="https://github.com/ananya26-vishnoi" align="right">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya26-vishnoi&theme=light&hide_langs_below=1" />
+<a href="https://github.com/ananya26-vishnoi" align="right">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya26-vishnoi&theme=light&hide_langs_below=1" />
 </a>
-___________________________
+
+---
+
 <p align="right"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ananya26-vishnoi/count.svg" />
@@ -67,7 +73,6 @@ ___________________________
   <a>
     <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=coder-KO.coder-KO" />
   </a>
-</p> 
+</p>
 
 <img height="120" alt="Thanks for visiting " width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-

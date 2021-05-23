@@ -2,7 +2,7 @@
 
 ---
 
-## I'm a Designer and Developer!!
+## I'm a Designer and Developer and The Hustlers teammate !!
 
 <img align="right" alt="GIF" width="400" height="400" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" />
 
